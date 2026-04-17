@@ -1,6 +1,6 @@
 Hi 👋, I'm Sanjay Saini
 
-💻 Entry-Level Python Web Developer
+💻 Python Web Developer
 📍 Jaipur, Rajasthan, India
 
 ---
