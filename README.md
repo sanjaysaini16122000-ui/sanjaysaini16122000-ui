@@ -1,5 +1,5 @@
 👋 Hi, I'm Sanjay Saini
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjaysaini16122000-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> <img src="https://img.shields.io/github/followers/sanjaysaini16122000-ui?label=Followers&style=social" alt="followers"/> </p> <p align="center"> <b>💻 Python Web Developer | Full-Stack Developer</b><br> 📍 Jaipur, Rajasthan, India </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjaysaini16122000-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p> <p align="center"> <b>💻 Python Web Developer | Full-Stack Developer</b><br> 📍 Jaipur, Rajasthan, India </p>
 🚀 About Me
 💡 Python Web Developer with experience in Django, React, and REST APIs
 🔧 Skilled in building full-stack web applications
@@ -37,9 +37,8 @@ CLI-based calculator with input validation and error handling
 
 Aspiring Software Developer / Python Developer seeking an opportunity to contribute to real-world projects, enhance technical expertise, and grow within a dynamic and collaborative environment.
 
-⚡ Fun Touch (Animation)
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&width=500&lines=Python+Developer;Django+%7C+React+Developer;Full+Stack+Enthusiast;Always+Learning+New+Things"> </p>
-⭐ Key Highlights (ATS-Friendly Keywords)
+⭐ Key Highlights
 Python Developer
 Django Developer
 Full-Stack Developer
