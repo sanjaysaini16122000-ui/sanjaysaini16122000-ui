@@ -1,5 +1,5 @@
 👋 Hi, I'm Sanjay Saini
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjaysaini16122000-ui&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> </p> <p align="center"> <b>💻 Python Web Developer | Full-Stack Developer</b><br> 📍 Jaipur, Rajasthan, India </p>
+ </p> <p align="center"> <b>💻 Python Web Developer | Full-Stack Developer</b><br> 📍 Jaipur, Rajasthan, India </p>
 🚀 About Me
 💡 Python Web Developer with experience in Django, React, and REST APIs
 🔧 Skilled in building full-stack web applications
